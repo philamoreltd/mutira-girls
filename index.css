@@ -1,0 +1,26 @@
+.page-width{
+    max-width: 100%;
+    margin: auto;
+}
+table{
+    width: 100%;
+    
+}
+[class*="col-"]{
+    width: 100%;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: whitesmoke;
+    float: left;
+    
+}
+.text{
+    padding-left: 20px;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
